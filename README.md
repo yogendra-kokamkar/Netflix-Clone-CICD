@@ -1,3 +1,6 @@
+
+![pipeline](https://github.com/yogendra-kokamkar/Netflix-Clone-CICD/assets/55878086/63fdf9e2-fab0-4c15-b024-35324b6db986)
+
 <div align="center">
   <a href="http://netflix-clone-with-tmdb-using-react-mui.vercel.app/">
     <img src="./public/assets/netflix-logo.png" alt="Logo" width="100" height="32">
